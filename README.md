@@ -3,4 +3,4 @@ https://www.python.org/downloads/release/python-370/
 
 
 
-<img src="https://i.imgur.com/5nXfJpa.png">
+<img title="Scanner de placas Por Jose89fcb" src="https://i.imgur.com/5nXfJpa.png">
